@@ -5,7 +5,7 @@ Hello World app for CodePath- my first Android app and first repository on Githu
 ### App Description
 `TODO://` App that displays text. Text, text color, background color can be changed by clicking various buttons. Text can also be changed to custom text through user input and clicking a button.
 
-<img src="https://recordit.co/n3w2LjBs1b" width=200><br>
+<img src="http://g.recordit.co/n3w2LjBs1b.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
