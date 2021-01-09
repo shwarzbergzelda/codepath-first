@@ -1,16 +1,11 @@
 # codepath-first
 Hello World app for CodePath- my first Android app and first repository on Github.
-## NAME_OF_YOUR_APP_HERE
+## HelloWorld
 
 ### App Description
-`TODO://` Add app description
+`TODO://` App that displays text. Text, text color, background color can be changed by clicking various buttons. Text can also be changed to custom text through user input and clicking a button.
 
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://recordit.co/n3w2LjBs1b" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
